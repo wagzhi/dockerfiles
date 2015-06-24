@@ -3,3 +3,5 @@ dockers.iml
 *.gz
 *.tar
 *.zip
+.DS_Store
+*/.DS_Store
