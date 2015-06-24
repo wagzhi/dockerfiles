@@ -1,2 +1,5 @@
 .idea
 dockers.iml
+*.gz
+*.tar
+*.zip
